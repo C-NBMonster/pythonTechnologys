@@ -1,0 +1,8 @@
+127.0.0.1      localhost
+192.168.100.2  www.test2.com
+192.168.100.3  www.test3.com
+192.168.100.4  www.test4.com
+
+
+
+

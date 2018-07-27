@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/advancedTechnology/modules/zlib/zlib_base2.py" line="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c8426c3-03f1-4d55-95f0-572343b2e29f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonTechnology$zlib_base2.coverage" NAME="zlib_base2 Coverage Results" MODIFIED="1514277777308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/zlib" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$fileinput_base.coverage" NAME="fileinput_base Coverage Results" MODIFIED="1513849190451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$struct_base.coverage" NAME="struct_base Coverage Results" MODIFIED="1514530212482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/struct" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$mysql_base.coverage" NAME="mysql_base Coverage Results" MODIFIED="1511945434205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/dataBase/mysql" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$Unittests_for_Auto_WidgetTestCase_testgetSize.coverage" NAME="Unittests for Auto.WidgetTestCase.testgetSize Coverage Results" MODIFIED="1514540818609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case5.coverage" NAME="app_fileinput_RE_case5 Coverage Results" MODIFIED="1513921072605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$listOperate_Methods.coverage" NAME="listOperate_Methods Coverage Results" MODIFIED="1511760797855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseKnowlage/list" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$Unittests_for_Auto_WidgetTestCase.coverage" NAME="Unittests for Auto.WidgetTestCase Coverage Results" MODIFIED="1514539851742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$calendar.coverage" NAME="calendar Coverage Results" MODIFIED="1513675362505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/time" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case3.coverage" NAME="app_fileinput_RE_case3 Coverage Results" MODIFIED="1513850484709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$logging.coverage" NAME="logging Coverage Results" MODIFIED="1513740671544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$logging__1_.coverage" NAME="logging (1) Coverage Results" MODIFIED="1513749017762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/log" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case6.coverage" NAME="app_fileinput_RE_case6 Coverage Results" MODIFIED="1513921474220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$commond_page.coverage" NAME="commond_page Coverage Results" MODIFIED="1513666302909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$glob_base.coverage" NAME="glob_base Coverage Results" MODIFIED="1514517701130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/glob" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$radom_base.coverage" NAME="radom_base Coverage Results" MODIFIED="1514188398234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/radom" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$socket_sample_1.coverage" NAME="socket_sample_1 Coverage Results" MODIFIED="1512377727142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/socket" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case1.coverage" NAME="app_fileinput_RE_case1 Coverage Results" MODIFIED="1513849459035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$time_base.coverage" NAME="time_base Coverage Results" MODIFIED="1513670415357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/time" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case7.coverage" NAME="app_fileinput_RE_case7 Coverage Results" MODIFIED="1513924197722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$wmi_base.coverage" NAME="wmi_base Coverage Results" MODIFIED="1514193562582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/wmi" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$itertools_base.coverage" NAME="itertools_base Coverage Results" MODIFIED="1511859534285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/itertools" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$function_base.coverage" NAME="function_base Coverage Results" MODIFIED="1511944656394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baseKnowlage/functions" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$email_base.coverage" NAME="email_base Coverage Results" MODIFIED="1514279508417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/email" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$datastrutureGraph.coverage" NAME="datastrutureGraph Coverage Results" MODIFIED="1511934198510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/dataStruture" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$threading_base.coverage" NAME="threading_base Coverage Results" MODIFIED="1513760493415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/threading" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$math_base.coverage" NAME="math_base Coverage Results" MODIFIED="1514184114911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/math" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$zlib_base.coverage" NAME="zlib_base Coverage Results" MODIFIED="1514269216998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/zlib" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$sort_8_methods.coverage" NAME="sort_8_methods Coverage Results" MODIFIED="1511777005335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/sort" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$app_fileinput_RE_case2.coverage" NAME="app_fileinput_RE_case2 Coverage Results" MODIFIED="1513850019074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/fileinput" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$smtlib_base.coverage" NAME="smtlib_base Coverage Results" MODIFIED="1514278598809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/smtlib" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$walk_func.coverage" NAME="walk_func Coverage Results" MODIFIED="1531301254915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/os" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$Unittests_for_Auto_WidgetTestCase_testreSize.coverage" NAME="Unittests for Auto.WidgetTestCase.testreSize Coverage Results" MODIFIED="1514541418207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+    <SUITE FILE_PATH="coverage/pythonTechnology$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1513670520175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/advancedTechnology/modules/time" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pythonTechnology" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="fileinput_base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/module_fileinput/fileinput_base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="del_os_rubbish.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/del_os_rubbish.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_os.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_os_app.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_os_create.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_create.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-450" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_os_delete.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_delete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="36" column="34" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_os_stat.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_stat.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>i</find>
+      <find>ASc</find>
+      <find>lowe</find>
+      <find>isall</find>
+      <find>map</find>
+      <find>rfind</find>
+      <find>index</find>
+      <find>join</find>
+      <find>sp</find>
+      <find>pop</find>
+      <find>from</find>
+      <find>man</find>
+      <find>date1</find>
+      <find>walk</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>date</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/advancedTechnology/sort/sort_8_methods.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/itertools_base/itertools_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/itertools/itertools_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/dataStruture/stackAndQueue.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/dataStruture/queue.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/dataStruture/datastrutureGraph.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/dataBase/mysql/mysql_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/dataBase/mysql/mysql_conn.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/socket/socket_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/socket/socket_sample_1.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/urllib/urllib_base.py" />
+        <option value="D:/Pythonbb/prac/prc_froAll.py" />
+        <option value="$PROJECT_DIR$/commond_page.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/time/time_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/time/datetime.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/time/formatCovert.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/time/calendar.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/logging.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/log/fileconfig-log.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/log/logconfig" />
+        <option value="$PROJECT_DIR$/advancedTechnology/log/logConfig" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/threading/threading_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/fileinput_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t1" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t2" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case1.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case2.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case3.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case4.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case5.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t3" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case6.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t4.log" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case7.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t4.txt" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/fileinput/t5.txt" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/math_base/math_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/math/math_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/radom/radom_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/wmi/wmi_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/zlib/zlib_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/zlib/zlib_base2.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/smtlib/smtlib_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/email/email_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/httplib/httplib_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/glob/glob_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/struct/struct_base.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/unittest/Widget.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/unittest/Auto.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/os/module_os.py" />
+        <option value="$PROJECT_DIR$/advancedTechnology/modules/os/walk_func.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="6" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="httplib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="itertools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="math" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="module_fileinput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="os" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="struct" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="advancedTechnology" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="baseKnowlage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="baseKnowlage" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythonTechnology" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythonTechnologys" type="462c0819:PsiDirectoryNode" />
+              <item name="externalLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\modules\zlib" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\modules\urllib" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\modules\fileinput" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\dataStruture" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\modules" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\log" />
+      <recent name="D:\Python\prac\pythonTechnologys\advancedTechnology\modules\os" />
+      <recent name="D:\Python\prac\pythonTechnologys\baseKnowlage\files" />
+      <recent name="D:\Python\prac\pythonTechnologys\baseKnowlage" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.walk_func">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="struct_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonTechnology" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advancedTechnology/modules/struct" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advancedTechnology/modules/struct/struct_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="walk_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonTechnology" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advancedTechnology/modules/os" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advancedTechnology/modules/os/walk_func.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="base" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration name="Unittests for Auto.WidgetTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonTechnology" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Auto.WidgetTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for Auto.WidgetTestCase.testgetSize" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonTechnology" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Auto.WidgetTestCase.testgetSize&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for Auto.WidgetTestCase.testreSize" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="pythonTechnology" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advancedTechnology/modules/unittest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Auto.WidgetTestCase.testreSize&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="base" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.struct_base" />
+      <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase" />
+      <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase.testgetSize" />
+      <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase.testreSize" />
+      <item itemvalue="Python.walk_func" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.walk_func" />
+        <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase.testreSize" />
+        <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase.testgetSize" />
+        <item itemvalue="Python tests.Unittests for Auto.WidgetTestCase" />
+        <item itemvalue="Python.struct_base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8426c3-03f1-4d55-95f0-572343b2e29f" name="Default" comment="" />
+      <created>1503046628243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503046628243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_Auto_WidgetTestCase - 2017.12.29 at 17h 30m 52s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Auto_WidgetTestCase_testgetSize - 2017.12.29 at 17h 46m 58s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase.testgetSize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Auto_WidgetTestCase_testreSize - 2017.12.29 at 17h 49m 37s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase.testreSize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Auto_WidgetTestCase_testreSize - 2017.12.29 at 17h 50m 21s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase.testreSize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Auto_WidgetTestCase_testreSize - 2017.12.29 at 17h 50m 33s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase.testreSize" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_Auto_WidgetTestCase_testreSize - 2017.12.29 at 17h 56m 58s.xml">
+      <configuration name="Unittests for Auto.WidgetTestCase.testreSize" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32942432" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37938362" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.20434782" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32826087" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44347826" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16385669" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32942432" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.20469083" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/commond_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="21" column="11" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/pickle/data.pkl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/pickle/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Pythonbb/prac/IDNo2.py" />
+    <entry file="file://D:/Python35/Lib/fileinput.py" />
+    <entry file="file://D:/Pythonbb/prac/prac_excel.py" />
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t3" />
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t3.log.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4859" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t5.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/t1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/math/math_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/radom/radom_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/wmi/wmi_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/urllib/urllib_base2.py" />
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/zlib/zlib_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/zlib/zlib_base2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/smtlib/smtlib_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/email/email_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/urllib/urllib_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="20" lean-forward="true" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/glob/glob_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/struct/struct_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="48" column="20" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/unittest/Widget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/unittest/Auto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="e#15#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseKnowlage/files/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseKnowlage/files/bytesRW.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseKnowlage/files/Excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="25" column="32" lean-forward="true" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baseKnowlage/files/files_base_rw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/app_fileinput_RE_case7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="12" selection-start-line="11" selection-start-column="23" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/fileinput/fileinput_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/httplib/httplib_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/itertools/itertools_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3034">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/log/logConfig.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/log/logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#556#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/module_fileinput/fileinput_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/del_os_rubbish.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_create.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="36" column="34" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="72" lean-forward="true" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/walk_func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="21" column="58" lean-forward="true" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="30" column="12" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advancedTechnology/modules/os/module_os_stat.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
